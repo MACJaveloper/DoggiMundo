@@ -12,6 +12,18 @@
 		F66D9397228CA7E3007182ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F66D9395228CA7E3007182ED /* Main.storyboard */; };
 		F66D9399228CA7F8007182ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F66D9398228CA7F8007182ED /* Assets.xcassets */; };
 		F66D939C228CA7F9007182ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F66D939A228CA7F9007182ED /* LaunchScreen.storyboard */; };
+		F66D93A4228CC49F007182ED /* InicioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F66D93A3228CC49F007182ED /* InicioViewController.swift */; };
+		F66D93A6228CC523007182ED /* AdoptameTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F66D93A5228CC523007182ED /* AdoptameTableViewController.swift */; };
+		F66D93A8228CC75F007182ED /* AdoptameTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F66D93A7228CC75F007182ED /* AdoptameTableViewCell.swift */; };
+		F66D93AF228CD4A1007182ED /* Grumpy.png in Resources */ = {isa = PBXBuildFile; fileRef = F66D93AA228CD49E007182ED /* Grumpy.png */; };
+		F66D93B0228CD4A1007182ED /* Cleopatra.png in Resources */ = {isa = PBXBuildFile; fileRef = F66D93AB228CD49F007182ED /* Cleopatra.png */; };
+		F66D93B1228CD4A1007182ED /* Icarus.png in Resources */ = {isa = PBXBuildFile; fileRef = F66D93AC228CD4A0007182ED /* Icarus.png */; };
+		F66D93B2228CD4A1007182ED /* Creedence.png in Resources */ = {isa = PBXBuildFile; fileRef = F66D93AD228CD4A0007182ED /* Creedence.png */; };
+		F66D93B3228CD4A1007182ED /* Chapo.png in Resources */ = {isa = PBXBuildFile; fileRef = F66D93AE228CD4A1007182ED /* Chapo.png */; };
+		F66D93B5228CFA02007182ED /* DetalleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F66D93B4228CFA02007182ED /* DetalleViewController.swift */; };
+		F6FCBD9F22936C6C0072E124 /* RefugioTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6FCBD9E22936C6B0072E124 /* RefugioTableViewController.swift */; };
+		F6FCBDA122936C850072E124 /* RefugioTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6FCBDA022936C850072E124 /* RefugioTableViewCell.swift */; };
+		F6FCBDA322936CA90072E124 /* RefugioDetalleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6FCBDA222936CA90072E124 /* RefugioDetalleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		F66D9398228CA7F8007182ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F66D939B228CA7F9007182ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F66D939D228CA7F9007182ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F66D93A3228CC49F007182ED /* InicioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InicioViewController.swift; sourceTree = "<group>"; };
+		F66D93A5228CC523007182ED /* AdoptameTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoptameTableViewController.swift; sourceTree = "<group>"; };
+		F66D93A7228CC75F007182ED /* AdoptameTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdoptameTableViewCell.swift; sourceTree = "<group>"; };
+		F66D93AA228CD49E007182ED /* Grumpy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Grumpy.png; sourceTree = "<group>"; };
+		F66D93AB228CD49F007182ED /* Cleopatra.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cleopatra.png; sourceTree = "<group>"; };
+		F66D93AC228CD4A0007182ED /* Icarus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icarus.png; sourceTree = "<group>"; };
+		F66D93AD228CD4A0007182ED /* Creedence.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Creedence.png; sourceTree = "<group>"; };
+		F66D93AE228CD4A1007182ED /* Chapo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chapo.png; sourceTree = "<group>"; };
+		F66D93B4228CFA02007182ED /* DetalleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalleViewController.swift; sourceTree = "<group>"; };
+		F6FCBD9E22936C6B0072E124 /* RefugioTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefugioTableViewController.swift; sourceTree = "<group>"; };
+		F6FCBDA022936C850072E124 /* RefugioTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefugioTableViewCell.swift; sourceTree = "<group>"; };
+		F6FCBDA222936CA90072E124 /* RefugioDetalleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefugioDetalleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +78,34 @@
 		F66D9390228CA7E3007182ED /* DoggiMundo */ = {
 			isa = PBXGroup;
 			children = (
+				F66D93A9228CD488007182ED /* FotosPerros */,
 				F66D9391228CA7E3007182ED /* AppDelegate.swift */,
 				F66D9393228CA7E3007182ED /* ViewController.swift */,
+				F66D93A3228CC49F007182ED /* InicioViewController.swift */,
+				F66D93A5228CC523007182ED /* AdoptameTableViewController.swift */,
+				F66D93A7228CC75F007182ED /* AdoptameTableViewCell.swift */,
+				F66D93B4228CFA02007182ED /* DetalleViewController.swift */,
 				F66D9395228CA7E3007182ED /* Main.storyboard */,
+				F6FCBD9E22936C6B0072E124 /* RefugioTableViewController.swift */,
+				F6FCBDA022936C850072E124 /* RefugioTableViewCell.swift */,
+				F6FCBDA222936CA90072E124 /* RefugioDetalleViewController.swift */,
 				F66D9398228CA7F8007182ED /* Assets.xcassets */,
 				F66D939A228CA7F9007182ED /* LaunchScreen.storyboard */,
 				F66D939D228CA7F9007182ED /* Info.plist */,
 			);
 			path = DoggiMundo;
+			sourceTree = "<group>";
+		};
+		F66D93A9228CD488007182ED /* FotosPerros */ = {
+			isa = PBXGroup;
+			children = (
+				F66D93AE228CD4A1007182ED /* Chapo.png */,
+				F66D93AB228CD49F007182ED /* Cleopatra.png */,
+				F66D93AD228CD4A0007182ED /* Creedence.png */,
+				F66D93AA228CD49E007182ED /* Grumpy.png */,
+				F66D93AC228CD4A0007182ED /* Icarus.png */,
+			);
+			path = FotosPerros;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +166,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F66D93B1228CD4A1007182ED /* Icarus.png in Resources */,
+				F66D93B2228CD4A1007182ED /* Creedence.png in Resources */,
 				F66D939C228CA7F9007182ED /* LaunchScreen.storyboard in Resources */,
+				F66D93B0228CD4A1007182ED /* Cleopatra.png in Resources */,
+				F66D93AF228CD4A1007182ED /* Grumpy.png in Resources */,
 				F66D9399228CA7F8007182ED /* Assets.xcassets in Resources */,
 				F66D9397228CA7E3007182ED /* Main.storyboard in Resources */,
+				F66D93B3228CD4A1007182ED /* Chapo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +184,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F66D93B5228CFA02007182ED /* DetalleViewController.swift in Sources */,
+				F6FCBDA122936C850072E124 /* RefugioTableViewCell.swift in Sources */,
 				F66D9394228CA7E3007182ED /* ViewController.swift in Sources */,
+				F66D93A8228CC75F007182ED /* AdoptameTableViewCell.swift in Sources */,
+				F66D93A4228CC49F007182ED /* InicioViewController.swift in Sources */,
+				F66D93A6228CC523007182ED /* AdoptameTableViewController.swift in Sources */,
 				F66D9392228CA7E3007182ED /* AppDelegate.swift in Sources */,
+				F6FCBD9F22936C6C0072E124 /* RefugioTableViewController.swift in Sources */,
+				F6FCBDA322936CA90072E124 /* RefugioDetalleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +341,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = X3PX9P7Y8Z;
 				INFOPLIST_FILE = DoggiMundo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -292,7 +349,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Developer.DoggiMundo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -303,6 +360,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = X3PX9P7Y8Z;
 				INFOPLIST_FILE = DoggiMundo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -310,7 +368,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Developer.DoggiMundo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
